@@ -11,9 +11,10 @@ Hardware
 - 2 Doodle Lab Evaluation Kits 
 - 2 Ethernet Cables
 - 2 Computers with Ethernet ports (or USB to Ethernet adapters)
-- DC power supply (5.5 - 42 V) or batteries or AC adapter
+- DC power supply (5.5 - 42 V) or batteries or AC adapters
+- 2 power cables with 2.5mm jack
 
-The [integration guide](../guides/Smart-Radio-2x2-MIMO-Integration-Guide-V1120.pdf) section, *Setup Information*, walks you through the steps required to test that the radios are communicating via a ping and iperf testing.
+The [integration guide](./guides/Smart-Radio-2x2-MIMO-Integration-Guide-V1120.pdf) section, *Setup Information*, walks you through the steps required to test that the radios are communicating via a ping and iperf testing.
 
 Connect the antennas to the radios before supplying power. If testing in close proximity, indoors, use the included attenuator.
 
