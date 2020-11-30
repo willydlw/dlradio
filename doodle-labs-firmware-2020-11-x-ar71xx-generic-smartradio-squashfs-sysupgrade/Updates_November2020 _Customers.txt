@@ -1,0 +1,8 @@
+November-2020
+List of updates for the November 2020 release of Smart Radio firmware
+
+	1) config: Replaced iperf2 by iperf3, by default
+	2) config: add A.L.F.R.E.D. package
+	3) config: added GPS support with ugps
+	4) webgui: use dynamic spectrum scan steps
+	5) webgui: added Serial port configuration page
